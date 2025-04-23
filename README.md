@@ -10,3 +10,7 @@ Projeto de um RPG baseado em terminal, desenvolvido em C++ com foco em **POO** e
 ## 🔧 Como Compilar e Executar  
 ```bash
 g++ src/*.cpp -o rpg-game && ./rpg-game
+
+
+## Perfil do LinkedIn
+https://www.linkedin.com/in/joao-mobiglia/
